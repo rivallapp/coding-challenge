@@ -6,7 +6,7 @@ const path = require('path')
 module.exports = function (app, opts) {
   // Setup routes, middleware, and handlers
   app.get('/', (req, res) => {
-    res.locals.name = 'Divvy React Challenge'
+    res.locals.name = 'Volo React Challenge'
     res.render('index')
   })
 

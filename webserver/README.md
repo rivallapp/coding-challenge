@@ -36,6 +36,6 @@ While this isn't a production ready application, it is an easy tool for this ass
 
 <br />
 
-This is good starting point to begin your Divvy homework assignment.
+This is good starting point to begin your Volo homework assignment.
 
 

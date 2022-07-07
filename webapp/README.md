@@ -1,4 +1,4 @@
-# Divvy Front End Homework Instructions
+# Volo Front End Homework Instructions
 
 Instructions for the front end assignment.
 
